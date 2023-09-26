@@ -36,6 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <li>Admin Panel--> Agents-> Roles</li>
 <li>Supreme Admin</li>
 
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
