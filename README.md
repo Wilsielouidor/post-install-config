@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<h3>Configure Roles </h3>
+<h3> Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Roles</a></h3>
 <li>Click Admin Panel--> Agents-> Roles</li>
 <li>Supreme Admin</li>
 
@@ -47,13 +47,29 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="80%" alt="Screen Shot 2023-09-25 at 11 40 22 PM" src="https://github.com/Wilsielouidor/post-install-config/assets/142513380/f97d8045-e313-471f-952a-0e1f97d4e9ac">
+
+</p>
+
+<p>
+<img width="80%" alt="Screen Shot 2023-09-25 at 11 43 06 PM" src="https://github.com/Wilsielouidor/post-install-config/assets/142513380/2863ca12-6d53-4c28-a0d3-07185fcfc538">
+
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+<img width="80%" alt="Screen Shot 2023-09-25 at 11 46 45 PM" src="https://github.com/Wilsielouidor/post-install-config/assets/142513380/d3209fe4-89fa-4688-a360-13c38f615957">
+
 </p>
+
+Type in Supreme Admin--> Go to Permisions and Check all boxes under Tickets, Tasks and Knowledgebase--> Click Add role on the bottom.
+
+<p> <img width="80%" alt="Screen Shot 2023-09-25 at 11 54 09 PM" src="https://github.com/Wilsielouidor/post-install-config/assets/142513380/a7d700ec-580c-424d-8c9c-0b5f65db5632">
+
+</p>
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
