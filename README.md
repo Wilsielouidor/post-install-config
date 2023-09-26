@@ -32,9 +32,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+<ul> 
 <h3> Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Roles</a></h3>
 <li>Click Admin Panel--> Agents-> Roles</li>
 <li>Supreme Admin</li>
+</ul>
 
 
 <p>
