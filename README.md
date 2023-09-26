@@ -22,13 +22,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Confisure Roles 
+- Configure Departments
+- Configure Teams 
+- Configure Agent (workers) 
+- Configure Users (customers)
+- Configure SLA
+- Configure Health Topics 
 
 <h2>Configuration Steps</h2>
+
+<h3>Configure Roles </h3>
+<li>Admin Panel--> Agents-> Roles</li>
+<li>Supreme Admin</li>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
