@@ -71,9 +71,14 @@ Type in Supreme Admin--> Go to Permisions and Check all boxes under Tickets, Tas
 <p> <img width="80%" alt="Screen Shot 2023-09-25 at 11 54 09 PM" src="https://github.com/Wilsielouidor/post-install-config/assets/142513380/a7d700ec-580c-424d-8c9c-0b5f65db5632">
 
 </p>
-
+<ul> 
+<h3> Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Departments</a></h3>
+<li>Click Admin Panel--> Agents-> Department--> Add new departments</li>
+<li>Name: System Administrator-> click create department (which is at the bottom when you scroll done if you don't see it)</li>
+</ul>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="80%" alt="Screen Shot 2023-09-26 at 11 30 50 PM" src="https://github.com/Wilsielouidor/post-install-config/assets/142513380/9f1ce150-e166-4ead-ba98-a9d4f598064b">
+
 </p>
 <br />
 
