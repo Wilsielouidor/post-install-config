@@ -113,13 +113,33 @@ Type in Supreme Admin--> Go to Permisions and Check all boxes under Tickets, Tas
   <li>Karen, Ken, Lisa, Mateo</li>
 </ul>
 </p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
 <p>
 <ul>
-<h3>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">Agent(Workers)</a></h3>
-  <li> Admin Panel->Agents-> Add new </li>
-  <li>Karen, Ken, Lisa, Mateo</li>
+<h3>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">SLA</a></h3>
+  <li> Admin Panel-> Manage-> SLA </li>
+  <li>Sev-A (1 hour, 24/7)</li>
+  <li>Sev-B (4 hours, 24/7)</li>
+
+<p>
+<ul>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+  
+<h3>Configure Help Topics</a></h3>
+
+<li> Business Critical Outage </li>
+<li>Personal Computer Issues</li>
+<li>Equipment Request</li>
+<li>Password Reset</li>
+
 </ul>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
