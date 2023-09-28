@@ -82,10 +82,44 @@ Type in Supreme Admin--> Go to Permisions and Check all boxes under Tickets, Tas
 </p>
 <br />
 
+<ul> 
+<h3> Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">Teams</a></h3>
+  
+<li>Click Admin Panel--> Agents-> Teams--> As default there is already a Level I so Add Level II </li>
+</ul>
+<p>
+<img width="80%" alt="img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps">
+
+</p>
+<br />
+
+<p>
+  <ul>
+  <h3>Allow Anyone to Create Tickets</h3>
+  <li>Admin panel->settings-> user settings </li>
+  <li>Registration required: Recquire registration and login to create tickets </li>
+  </ul>
+  </p> 
+  <br />
+  
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<ul>
+<h3>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agent(Workers)</a></h3>
+  <li> Admin Panel->Agents-> Add new </li>
+  <li>Karen, Ken, Lisa, Mateo</li>
+</ul>
+</p>
+<br />
+
+<p>
+<ul>
+<h3>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">Agent(Workers)</a></h3>
+  <li> Admin Panel->Agents-> Add new </li>
+  <li>Karen, Ken, Lisa, Mateo</li>
+</ul>
 </p>
 <br />
