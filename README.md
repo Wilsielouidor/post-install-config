@@ -103,7 +103,8 @@ Type in Supreme Admin--> Go to Permisions and Check all boxes under Tickets, Tas
   <br />
   
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="60%" alt="Screen Shot 2023-09-27 at 11 03 58 PM" src="https://github.com/Wilsielouidor/post-install-config/assets/142513380/2fec58cf-636e-41e0-99a7-078f1b587ff8">
+
 </p>
 
 <p>
