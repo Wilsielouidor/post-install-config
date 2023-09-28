@@ -120,8 +120,9 @@ Type in Supreme Admin--> Go to Permisions and Check all boxes under Tickets, Tas
 <br />
 
 <p>
-<ul>
+
 <h3>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">SLA</a></h3>
+<ul>
   <li> Admin Panel-> Manage-> SLA </li>
   <li>Sev-A (1 hour, 24/7)</li>
   <li>Sev-B (4 hours, 24/7)</li>
