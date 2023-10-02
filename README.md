@@ -126,11 +126,26 @@ Go to Permisions and Check all boxes under Tickets, Tasks and Knowledgebase--> C
 
 <p>
 
+<h3>Configure <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">Users (Customers)</a></h3>
+  <ul>
+  <li> Agent Panel->Users-> Add new </li>
+     <li>Karen Doe</li>
+      -Email Address: Karen@osticket.com ->Add Full Name-> Click Add User
+</ul>
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+
 <h3>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">SLA</a></h3>
 <ul>
   <li> Admin Panel-> Manage-> SLA </li>
   <li>Sev-A (1 hour, 24/7)</li>
   <li>Sev-B (4 hours, 24/7)</li>
+  <li>Sev C (2 hours, business hours) </li>
 </ul>
 <p>
 
